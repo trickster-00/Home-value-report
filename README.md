@@ -11,4 +11,4 @@ Here I was asked to report major factors that could influence home prices across
 
 ![](https://lucid.app/publicSegments/view/e820bad4-0aca-429b-8a57-0792cb551d0a/image.jpeg)
 
-The solution of the problem is given [here]()
+The solution of the problem is given [here](https://github.com/trickster-00/Home-value-report/blob/7c872e94283c2513d8158747eadcff1c859ab5f2/Solution)
