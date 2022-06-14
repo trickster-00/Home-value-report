@@ -1,6 +1,6 @@
 ```
 Name : Manaal Saxena
-Company : Hoom
+Company : HomeLLC
 Position Applied : Jr. Data Scientist
 ```
 
